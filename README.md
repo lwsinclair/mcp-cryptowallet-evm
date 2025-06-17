@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dcspark-mcp-cryptowallet-evm-badge.png)](https://mseep.ai/app/dcspark-mcp-cryptowallet-evm)
+
 # MCP Crypto Wallet EVM
 
 This repository contains a Model Context Protocol (MCP) server that provides Claude with access to Ethereum and EVM-compatible blockchain operations via ethers.js v5. The server enables Claude to perform operations like creating wallets, checking balances, sending transactions, and interacting with smart contracts on EVM-compatible blockchains.
